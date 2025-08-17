@@ -4,37 +4,26 @@
 <img src="logo.PNG" alt="Birthday Manager Logo"/>
 <img src="logo2.PNG" alt="Birthday Manager Logo2"/>
 <br><br>
-🌟🌟🌟 HOW TO BUILD AND RUN 🌟🌟🌟
+
+🌟🌟🌟 HOW TO EXECUTE THE GAME? 🌟🌟🌟
 </div>
 
-## · Requirements
-    · Visual Studio with C++ tools installed.
-    · Windows OS.
+### Build the project
 
-## Build Instructions
-There are two build scripts in the `tools` folder:
+- **Debug build:** `tools\debug_compiler.bat`
+- **Release build:** `tools\release_compiler.bat`
 
-  - **Release build:**  
-    `tools/release_compiler.bat`
+### Run the game
 
-  - **Debug build:**  
-    `tools/debug_compiler.bat`
+- **Debug mode:** `tools\RUN_BIRTHDAY_MANAGER_debug.bat`
+- **Release mode:** `tools\RUN_BIRTHDAY_MANAGER_release.bat`
 
-Run the desired script to generate the executable and object files.
-
-## Run Instructions
-After building, you can run the game using the corresponding script:
-
-  - **Release version:**  
-    `RUN_BIRTHDAY_MANAGER_release.bat`
-
-  - **Debug version:**  
-    `RUN_BIRTHDAY_MANAGER_debug.bat`
-
----
+> ⚠️ Requirements: You need to have **Visual Studio build tools** installed.
 
 <div align="center">
+<br>
 🌟🌟🌟 HISTORY VERSIONS 🌟🌟🌟
+<br>
 </div>
 
 | Version | Date       | Changes |
@@ -51,4 +40,3 @@ After building, you can run the game using the corresponding script:
 | 3.0     | 25/12/2021 | Clock animation working |
 | 2.0     | 25/12/2021 | Clock needles working |
 | 1.0     | 22/12/2021 | Seconds counter done |
-
