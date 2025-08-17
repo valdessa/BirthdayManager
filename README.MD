@@ -5,8 +5,23 @@
 <img src="logo2.PNG" alt="Birthday Manager Logo2"/>
 <br><br>
 
-🌟🌟🌟 HOW TO EXECUTE THE GAME? 🌟🌟🌟
+
 </div>
+
+## 📝 Introduction
+
+Birthday Manager is a personal C++ project I developed in 2021. It’s built with **SDL2**, **ImGui**, and **SQLite**, and features a interactive clock interface and a birthday database manager.
+
+One of the highlights of this project is its **custom memory management system**, using `MemoryNode` and `Vector` structures to efficiently handle dynamic data. 
+
+This project was a great learning experience in 2021 for  **C memory handling**, **GUI development with ImGui**, and **integrating SQLite databases**.
+
+>✨ **Easter Egg:** If you run the program on someone’s birthday, you’ll discover a little surprise hidden inside the application! 🎉
+
+
+---
+
+🌟🌟🌟 HOW TO BUILD AND EXECUTE 🌟🌟🌟
 
 ### Build the project
 
