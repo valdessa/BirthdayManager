@@ -4,7 +4,7 @@
 <img src="logo.PNG" alt="Birthday Manager Logo"/>
 <img src="logo2.PNG" alt="Birthday Manager Logo2"/>
 <br><br>
-🌟🌟🌟 HOW TO BUILD AND RUN THE GAME 🌟🌟🌟
+🌟🌟🌟 HOW TO BUILD AND RUN 🌟🌟🌟
 </div>
 
 ## · Requirements
